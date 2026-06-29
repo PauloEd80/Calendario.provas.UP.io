@@ -1,0 +1,1302 @@
+
+Gemini
+Nova conversa
+Pesquisar conversas
+Imagens
+Biblioteca
+Novo notebook
+Doutorado
+Java ju
+Todos os notebooks
+Genelico
+Java Ju
+Prototipagem de Sistemas: Conteúdo e Objetivos
+Doutorado tex
+Slides Transformados em Texto Organizado
+Java exercicios
+Diagrama UML Biblioteca Profissional
+Engenharia de Software: Aulas de Usabilidade
+HTML Calendário de Avaliações GitHub
+Onda de De Broglie e Objetos Macroscópicos
+Dados em Tabela e Planilha
+Transcrição e Revisão de Evento Acadêmico
+Sistematização e Análise de Datas de Publicação
+Irei realizar hoje uma aula introdutória a respeito do Spring Boot em aplicações Java. Eu já planejei ali mostrar como iniciar o arquivo do Spring Boot, como colocar ali algumas dependências como Spring Web, o Lombok, o Dev Tools, né? E já iniciar o a aplicação, né, o arquivo standard ali, padrãozinho, já com a classe que vem de default, né, da First Spring App Application, né? Eu gostaria de uma sugestão de alguma dinâmica, algum exercício, alguma construção de alguma coisa, pra gente fazer nessa primeira aula bem simples, de preferência monolítico, que eu possa criar ali uma classe, uma, duas classes, enfim, poucas classes, e que eu conseguisse demonstrar a facilidade que o Spring traz pro Java, eh, considerando que eles são uma turma que já viram herança, já viram, já viram polimorfismo, já viram conexão com banco de dados, escrita em arquivos. Já viram toda essa, essa introdução a Java, mas nenhum deles conhece Spring Boot e não sabe as facilidades que ele traz. Você poderia sugerir pra mim, então, uma atividade, uma dinâmica que fosse minimamente interessante, fácil de executar, pra que eu pudesse fazer com eles? E se sim, forneça também o passo a passo e os códigos pra que eu possa criar essas classes em sala de aula.
+Irei realizar hoje uma aula introdutória a respeito do Spring Boot em aplicações Java. Eu já planejei ali mostrar como iniciar o arquivo do Spring Boot, como colocar ali algumas dependências como Spring Web, o Lombok, o Dev Tools, né? E já iniciar o a aplicação, né, o arquivo standard ali, padrãozinho, já com a classe que vem de default, né, da First Spring App Application, né? Eu gostaria de uma sugestão de alguma dinâmica, algum exercício, alguma construção de alguma coisa, pra gente fazer nessa primeira aula bem simples, de preferência monolítico, que eu possa criar ali uma classe, uma, duas classes, enfim, poucas classes, e que eu conseguisse demonstrar a facilidade que o Spring traz pro Java, eh, considerando que eles são uma turma que já viram herança, já viram, já viram polimorfismo, já viram conexão com banco de dados, escrita em arquivos. Já viram toda essa, essa introdução a Java, mas nenhum deles conhece Spring Boot e não sabe as facilidades que ele traz. Você poderia sugerir pra mim, então, uma atividade, uma dinâmica que fosse minimamente interessante, fácil de executar, pra que eu pudesse fazer com eles? E se sim, forneça também o passo a passo e os códigos pra que eu possa criar essas classes em sala de aula.
+Diretrizes para Apresentação Sprint 3
+Imagem Ilegível, Dados Não Processados
+Extração e Sistematização de Questões ENADE
+Apollo 11 Wallpaper Designs
+Resumo Acadêmico de Projeto Ambiental
+Sugestões de Nomes para Projeto de Extensão
+Nomes Para Eventos De Coleta De Lixo
+Análise de Scooter Elétrica Retrô Urbana
+Provas Anteriores do Enade: Acesso
+Análise e Compra de Alfaiataria Moderna
+Preço Triciclo Elétrico SUDU A3T
+Formatação ABNT de Referências Bibliográficas
+IA como Co-Pesquisador de Doutorado
+Criando Site SharePoint para ETI Londrina
+Atividade Interdisciplinar: Prototipagem e IA
+Dinâmicas para Engajar Alunos Sem Leitura
+Fontes dos Logos da Franquia Persona
+Imagem com Fundo Transparente
+Análise de Gasto de Energia e Impacto
+C4 para UML: Níveis 3 e 4
+Criando um Avatar Assistente IA
+Imagem de Fundo para Oficina Maker
+Gabarito Prova Tipo A e Aguardo Tipo B
+Imagem para Fundo de Questionário Criativo
+Classes vs. Objetos: Uma Explicação
+POO e Exceções em Java
+Estrutura da Análise de Dados
+Web Scraping para Levantamento Bibliográfico
+Acesso a Projeto Overleaf Restrito
+Comparativo de Concepções de Formação
+Prompts para Pesquisa Qualitativa Documental
+Criação de Prompt BPMN Saúde Bucal
+public class TestaEstatico { public static void main(String[] args) { Estatico e1 = new Estatico(); Estatico e2 = new Estatico(); Estatico e3 = new Estatico(); System.out.println("Valor = " + e1.getValor()); e1.valor++; System.out.println("Valor = " + e1.getValor()); e2.valor++; System.out.println("Valor = " + e1.getValor()); } }
+ professional and clean BPMN 2.0 process diagram for an Oral Health Resources company. The flow shows a 'Procurement and Distribution of Dental Supplies' process. The diagram includes: 1. A pool labeled 'Dental Supply Corp' with lanes for 'Warehouse', 'Sales', and 'Logistics'. 2. Standard BPMN symbols: a green circle (Start Event) labeled 'Order Received', rounded rectangles (Tasks) like 'Check Inventory', 'Sterilization Check', and 'Pack Dental Kits'. 3. A diamond shape (Exclusive Gateway) for 'Stock Available?'. 4. Flow arrows connecting elements. 5. A bold red circle (End Event) labeled 'Order Shipped'. The style is a high-quality digital vector illustration, white background, blue and grey professional color palette, clear typography, 4k resolution, corporate infographic style.
+Identificação de Ferramenta de Diagrama UML
+Análise e Evolução da Pesquisa Acadêmica
+Plano de Pesquisa Geral Personalizado
+Estimativa de Energia IA e Uso
+Adaptando Lista Brawl para MTG Arena
+Diagrama UML: Sistema de Reserva de Hotel
+UML vs. BPMN: Propósito e Público
+BPMN para Gerenciamento de Boletos
+MVP e BPMN: Da Ideia ao Código
+Conversão de LaTeX para Apresentação
+Propostas de Projetos e Foco de Conversa
+Plano de Ensino Preenchido: Prototipagem de Sistemas
+Código Arduino para Night Light
+Elaboração de Questionário para Pesquisa Científica
+Projeto Espalhadeiras do Bem: Resumo
+edite a imagemdeixando o fundo em tons brancoe as letras pretas
+Entendendo Documento LaTeX de Java
+Oficina Arduino e Robótica para Iniciantes
+Cardápio Diabético Econômico e Saudável
+Roteiro de Vídeo para Análise de Inovação
+Revisão de Texto Acadêmico sobre Pré-Incubação
+Análise Estrutural de Projeto Pendente
+Link TRL Atualizado e Referência
+EEN Portugal: Apoio a Empresas e Inovação
+Referência de Imagem e Conceito TRL
+Identificando Carta de Magic: 5ª Edição
+Pântanos de Magic: Primeiras Coleções
+Refaça essa imagem de uma forma otimizada mantendo as informações
+Invertendo Cores e Explicando Java
+Java: Criando Catálogo de Filmes
+Resumo e Análise de Evasão Acadêmica
+Formatação de Lista para Compra Magic
+Deck Commander Temático de Idosos
+Código Fita LED: Padrões Branco/Cinza
+Código LED Portal Ano Novo
+Otimização de Código para LEDs
+Como ficaria se tirasse a barba? E se deixasse apenas o cavanhauqe e o bigode ?
+Identificando Falha no Sistema
+Programação de Fitas LED Endereçáveis Arduino
+Revisão de Pensamento Lógico 6º Ano
+Perguntas Abertas: Programação e Robótica
+Análise de Código ASP.NET Core e Correções
+Simulação de Vendas com Alocação Dinâmica
+Análise Demográfica de Idades em C
+Plano de Aula: Modularização de Algoritmos
+Matrizes Dinâmicas em C: Aula e Exercícios
+Exercícios de Programação: Matrizes, Modularização, Ponteiros
+Criando Fake API Local com JSON-Server
+`stdlib.h`: Funções Essenciais em C
+Typedef Struct: Organizando Dados em C
+`stdlib.h` Uso em Código C
+C# POO e APIs: Ajuda para Prova
+Shell Scripts: Compilação vs. Interpretação
+Conversa com o Gemini
+Tranforme a seguinte tabela de datas em uma pagina de calendario em formato html para que ue possa postar no github pages. dever ser facil de editar e modificar as datas bem como de compartilhar : Cronograma de Avaliações A2 e AF — 2026/1 (ADS e Engenharia de Software)DisciplinaCursoTurmaProfessorA2AFDesenvolvimento de SoftwareES2N1,3N1Paulo Eduardo Bueno17/06/202601/07/2026Prototipagem de Sistemas ComputacionaisADS1N1Paulo Eduardo Bueno18/06/202602/07/2026Modelos de Processos de SoftwareES4N1,5N1A definir19/06/202626/06/2026Desenvolvimento de SoftwareADS2N1,3N1Maria Eduarda16/06/202629/06/2026Desenvolvimento de SoftwareES3N2Juliana Costa Silva15/06/202629/06/2026Prototipagem de Sistemas ComputacionaisES1N1Paulo Eduardo Bueno15/06/202629/06/2026Desenvolvimento Web AvançadoES4N1,5N1Juliana Costa Silva16/06/202630/06/2026Engenharia de Prompt e Aplicações em IAES1N1Helton de Azevedo16/06/202630/06/2026Interface e Jornada do UsuárioADS1N1Thiago Arahn Detoni17/06/202601/07/2026Interface e Jornada do UsuárioES1N1Thiago Arahn Detoni17/06/202601/07/2026Gestão de Projetos de SoftwareES4N1,5N1Thiago Arahn Detoni18/06/202602/07/2026Desenvolvimento de SistemasADS2N1,3N1Juliana Costa Silva26/06/202603/07/2026Design de SoftwareES2N1,3N1Everson a confirmara confirmarDesign de SoftwareES3N2Everson a confirmara confirmarProgramação de ComputadoresES1N1Joao Victor Ramos23/06/202630/06/2026Programação de ComputadoresADS1N1Joao Victor Ramos23/06/202630/06/2026Tópicos Especiais de SistemasADS2N1,3N1Alex Junior Nunes da Silva24/04/202601/07/2026Viabilidade de ProjetosES4N1,5N1Joao Victor Ramos17/06/202601/07/2026Engenharia de Prompt e Aplicações em IAADS1N1Alex Junior Nunes da Silva19/06/202603/07/2026
+
+Seu arquivo HTML está pronto
+Ícone do app HTML
+index
+ HTML 
+Aberto
+
+Construí uma solução completa, moderna e responsiva em um único arquivo HTML estruturado para ser hospedado diretamente no GitHub Pages. O design foi desenvolvido com uma identidade visual sóbria, madura e acadêmica, ideal para exibição pública a estudantes e docentes da instituição.
+
+🌟 Principais Recursos do Calendário Desenvolvido
+Facilidade Suprema de Edição: Os dados fornecidos foram estruturados em uma lista em formato JSON simples e limpo dentro da tag <script> no próprio arquivo. As datas estão no formato nativo brasileiro (DD/MM/YYYY), permitindo que você altere, remova ou insira novas avaliações editando apenas linhas de texto comuns, sem precisar alterar a lógica de renderização em JavaScript.
+
+Dupla Visualização (Abas Interativas): O usuário pode alternar facilmente entre a Visão em Calendário mensal convencional e a Visão em Tabela consolidada e filtrável.
+
+Filtros Dinâmicos Avançados: Filtre em tempo real por nome da disciplina ou do professor por meio de um campo de busca textual estruturado, ou segmente rapidamente os dados selecionando o curso específico (ADS ou Engenharia de Software) e o tipo de avaliação (A2 ou AF).
+
+Painel de Indicadores (Dashboard): Quatro cartões resumem os indicadores em tempo real para os alunos (total de disciplinas listadas, quantidade de provas A2 mapeadas, quantidade de AFs e número de avaliações pendentes).
+
+Tratamento de Exceções ("A Confirmar"): Disciplinas cujas datas constam como "a confirmar" (como a matéria de Design de Software) são automaticamente isoladas pelo algoritmo e apresentadas em uma seção elegante de "Avisos e Pendências", garantindo que nenhuma informação importante suma do mapa.
+
+Interface com Modais Informativos: Ao clicar sobre o "pílula" de qualquer prova no calendário, um painel flutuante (modal) surge exibindo de forma clara todos os metadados daquela avaliação (Nome Completo, Curso, Turma, Professor, Tipo e Data).
+
+🛠️ Como Customizar e Editar as Datas
+Para atualizar as datas do cronograma, você só precisa alterar a estrutura de dados no código do arquivo:
+
+Abra o arquivo index.html em qualquer editor de código (como VS Code, Notepad++, ou o editor nativo do próprio GitHub).
+
+Localize o início do script (por volta da linha 413), onde encontrará a seguinte estrutura:
+
+JavaScript
+const cronogramaData = [
+    {
+        "disciplina": "Desenvolvimento de Software",
+        "curso": "Engenharia de Software",
+        "turma": "2N1, 3N1",
+        "professor": "Paulo Eduardo Bueno",
+        "a2": "17/06/2026",
+        "af": "01/07/2026"
+    },
+    // Novas matérias ou alterações entram aqui...
+];
+Basta atualizar os textos ou datas seguindo exatamente o padrão brasileiro (DD/MM/YYYY). Ao salvar o arquivo, o calendário recalculará os meses, métricas e posicionamentos de forma 100% automatizada.
+
+🚀 Como Publicar no GitHub Pages (Passo a Passo)
+Como o objetivo é o compartilhamento público e fácil acesso via link, siga o roteiro institucional abaixo para ativação na infraestrutura do GitHub:
+
+Criação do Repositório: - Acesse sua conta do GitHub e crie um novo repositório (clique no botão "New").
+
+Dê um nome estratégico ao repositório (ex: cronograma-avaliacoes-2026).
+
+Certifique-se de marcar o repositório como Public (Público), requisito fundamental para a modalidade gratuita do GitHub Pages.
+
+Você pode marcar a opção para inicializar com um arquivo README.md se desejar.
+
+Upload do Arquivo:
+
+Faça o download do arquivo index.html gerado aqui.
+
+No seu repositório do GitHub, clique em "Add file" -> "Upload files".
+
+Arraste o arquivo index.html para a janela.
+
+Nota Importante: Certifique-se de que o nome do arquivo permaneça estritamente como index.html (com letras minúsculas), pois os servidores web buscam por este nome como página de entrada padrão.
+
+Clique em "Commit changes" na parte inferior para salvar o arquivo na branch principal (main).
+
+Ativação da Hospedagem (GitHub Pages):
+
+Na barra superior interna do seu repositório, clique na aba Settings (Configurações).
+
+No menu lateral esquerdo, navegue até a seção Pages (dentro do grupo Code and automation).
+
+Na seção Build and deployment, sob a opção Source, certifique-se de que esteja selecionado "Deploy from a branch".
+
+Logo abaixo, no campo Branch, mude de None para main (ou master), mantenha a pasta padrão como / (root) e clique no botão Save.
+
+Distribuição e Compartilhamento:
+
+Aguarde de 1 a 3 minutos para o processamento dos servidores do GitHub.
+
+Atualize a página de configurações. Um banner surgirá no topo da seção indicando que o seu site está no ar, acompanhado do link de endereço público (geralmente no formato https://seu-usuario.github.io/nome-do-repositorio/).
+
+Copie esse link e compartilhe diretamente via canais institucionais, ambientes virtuais de aprendizagem ou grupos de comunicação com as turmas. Qualquer alteração futura no arquivo refletirá imediatamente para quem acessar o link.
+
+O Pro está com muita demanda no momento
+Outro modelo foi usado para esta resposta. Isso não foi contabilizado no seu limite.
+
+
+
+O Gemini é uma IA e pode cometer erros.
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cronograma de Avaliações 2026/1</title>
+    <style>
+        :root {
+            --primary: #1e3a8a;
+            --primary-dark: #1d4ed8;
+            --primary-light: #eff6ff;
+            --text-main: #0f172a;
+            --text-muted: #64748b;
+            --bg-page: #f8fafc;
+            --bg-card: #ffffff;
+            --border: #e2e8f0;
+            
+            --color-a2: #0284c7;
+            --bg-a2: #e0f2fe;
+            --color-af: #b45309;
+            --bg-af: #fef3c7;
+            
+            --radius-sm: 6px;
+            --radius-md: 10px;
+            --radius-lg: 16px;
+            --shadow: 0 4px 6px -1px rgb(0 0 0 / 0.05), 0 2px 4px -2px rgb(0 0 0 / 0.05);
+            --transition: all 0.2s ease-in-out;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg-page);
+            color: var(--text-main);
+            line-height: 1.5;
+            padding: 2rem 1rem;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 2.5rem;
+            background: linear-gradient(135deg, #1e3a8a 0%, #0f172a 100%);
+            color: white;
+            padding: 2.5rem 1.5rem;
+            border-radius: var(--radius-lg);
+            shadow: var(--shadow);
+        }
+
+        header h1 {
+            font-size: 2.25rem;
+            font-weight: 800;
+            margin-bottom: 0.5rem;
+            letter-spacing: -0.025em;
+        }
+
+        header p {
+            color: #93c5fd;
+            font-size: 1.1rem;
+            max-width: 600px;
+            margin: 0 auto 1.5rem auto;
+        }
+
+        .badge-info-top {
+            display: inline-block;
+            background: rgba(255, 255, 255, 0.1);
+            padding: 0.4rem 1rem;
+            border-radius: var(--radius-sm);
+            font-size: 0.875rem;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        /* Dashboard Cards */
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 1.25rem;
+            margin-bottom: 2rem;
+        }
+
+        .stat-card {
+            background: var(--bg-card);
+            padding: 1.5rem;
+            border-radius: var(--radius-md);
+            border: 1px solid var(--border);
+            box-shadow: var(--shadow);
+            text-align: center;
+        }
+
+        .stat-card h3 {
+            font-size: 0.875rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            margin-bottom: 0.5rem;
+            letter-spacing: 0.05em;
+        }
+
+        .stat-card .number {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--primary);
+        }
+
+        /* Controls / Filters */
+        .controls-card {
+            background: var(--bg-card);
+            padding: 1.5rem;
+            border-radius: var(--radius-md);
+            border: 1px solid var(--border);
+            box-shadow: var(--shadow);
+            margin-bottom: 2rem;
+        }
+
+        .filters-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            align-items: flex-end;
+        }
+
+        .filter-group {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+
+        .filter-group label {
+            font-size: 0.875rem;
+            font-weight: 600;
+            color: var(--text-muted);
+        }
+
+        .filter-group input, .filter-group select {
+            width: 100%;
+            padding: 0.625rem;
+            border: 1px solid var(--border);
+            border-radius: var(--radius-sm);
+            font-family: inherit;
+            font-size: 0.95rem;
+            background-color: #fff;
+            color: var(--text-main);
+            outline: none;
+            transition: var(--transition);
+        }
+
+        .filter-group input:focus, .filter-group select:focus {
+            border-color: var(--color-a2);
+            box-shadow: 0 0 0 3px rgba(2, 132, 199, 0.15);
+        }
+
+        /* View Tabs */
+        .tabs {
+            display: flex;
+            gap: 0.5rem;
+            margin-bottom: 1.5rem;
+            border-bottom: 2px solid var(--border);
+            padding-bottom: 2px;
+        }
+
+        .tab-btn {
+            padding: 0.75rem 1.5rem;
+            border: none;
+            background: none;
+            font-family: inherit;
+            font-weight: 600;
+            font-size: 1rem;
+            color: var(--text-muted);
+            cursor: pointer;
+            border-radius: var(--radius-sm) var(--radius-sm) 0 0;
+            margin-bottom: -2px;
+            transition: var(--transition);
+        }
+
+        .tab-btn:hover {
+            color: var(--primary);
+            background-color: rgba(30, 58, 138, 0.04);
+        }
+
+        .tab-btn.active {
+            color: var(--primary);
+            border-bottom: 3px solid var(--primary);
+        }
+
+        /* Calendar Styling */
+        .calendar-section {
+            display: block;
+        }
+
+        .calendar-nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1.5rem;
+            background: var(--bg-card);
+            padding: 1rem;
+            border-radius: var(--radius-md);
+            border: 1px solid var(--border);
+        }
+
+        .calendar-nav h2 {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--primary);
+        }
+
+        .nav-btn {
+            background: var(--primary-light);
+            color: var(--primary);
+            border: 1px solid rgba(30, 58, 138, 0.1);
+            padding: 0.5rem 1rem;
+            border-radius: var(--radius-sm);
+            font-weight: 600;
+            cursor: pointer;
+            transition: var(--transition);
+        }
+
+        .nav-btn:hover {
+            background: var(--primary);
+            color: white;
+        }
+
+        .calendar-grid {
+            display: grid;
+            grid-template-columns: repeat(7, 1fr);
+            gap: 6px;
+            background-color: var(--border);
+            padding: 6px;
+            border-radius: var(--radius-md);
+            box-shadow: var(--shadow);
+            background-color: var(--bg-card);
+            border: 1px solid var(--border);
+        }
+
+        .weekday-header {
+            background-color: var(--primary-light);
+            color: var(--primary);
+            font-weight: 700;
+            text-align: center;
+            padding: 0.75rem 0.25rem;
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            border-radius: var(--radius-sm);
+        }
+
+        .calendar-day {
+            background-color: #fff;
+            min-height: 120px;
+            padding: 0.5rem;
+            border-radius: var(--radius-sm);
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+            transition: var(--transition);
+        }
+
+        .calendar-day:hover {
+            box-shadow: inset 0 0 0 2px var(--border);
+        }
+
+        .calendar-day.other-month {
+            background-color: #f1f5f9;
+            color: var(--text-muted);
+            opacity: 0.5;
+        }
+
+        .day-number {
+            font-weight: 700;
+            font-size: 0.95rem;
+            margin-bottom: 4px;
+            align-self: flex-start;
+            width: 24px;
+            height: 24px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+        }
+
+        .calendar-day.today .day-number {
+            background-color: var(--primary);
+            color: white;
+        }
+
+        /* Event Pills */
+        .event-pill {
+            font-size: 0.75rem;
+            padding: 4px 6px;
+            border-radius: 4px;
+            font-weight: 600;
+            line-height: 1.2;
+            cursor: pointer;
+            transition: var(--transition);
+            border-left: 3px solid transparent;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        .event-pill:hover {
+            transform: translateY(-1px);
+            filter: brightness(0.95);
+        }
+
+        .event-pill.a2 {
+            background-color: var(--bg-a2);
+            color: var(--color-a2);
+            border-left-color: var(--color-a2);
+        }
+
+        .event-pill.af {
+            background-color: var(--bg-af);
+            color: var(--color-af);
+            border-left-color: var(--color-af);
+        }
+
+        /* Table View Styling */
+        .table-section {
+            display: none;
+            background: var(--bg-card);
+            border-radius: var(--radius-md);
+            border: 1px solid var(--border);
+            box-shadow: var(--shadow);
+            overflow-x: auto;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            text-align: left;
+            font-size: 0.95rem;
+        }
+
+        th {
+            background-color: var(--primary-light);
+            color: var(--primary);
+            font-weight: 700;
+            padding: 1rem;
+            border-bottom: 2px solid var(--border);
+        }
+
+        td {
+            padding: 1rem;
+            border-bottom: 1px solid var(--border);
+            color: var(--text-main);
+        }
+
+        tr:hover td {
+            background-color: #f8fafc;
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 0.25rem 0.5rem;
+            border-radius: 4px;
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-transform: uppercase;
+        }
+
+        .badge.ads { background-color: #e0f2fe; color: #0369a1; }
+        .badge.es { background-color: #f3e8ff; color: #6b21a8; }
+        
+        .table-date-badge {
+            font-weight: 600;
+            padding: 2px 6px;
+            border-radius: 4px;
+        }
+        .table-date-badge.a2 { background-color: var(--bg-a2); color: var(--color-a2); }
+        .table-date-badge.af { background-color: var(--bg-af); color: var(--color-af); }
+
+        /* Unscheduled Panel */
+        .unscheduled-card {
+            background: #fef2f2;
+            border: 1px solid #fee2e2;
+            padding: 1.25rem;
+            border-radius: var(--radius-md);
+            margin-top: 2rem;
+        }
+
+        .unscheduled-card h3 {
+            color: #991b1b;
+            font-size: 1.1rem;
+            margin-bottom: 0.75rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .unscheduled-list {
+            list-style: none;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 0.75rem;
+        }
+
+        .unscheduled-item {
+            background: white;
+            padding: 0.75rem;
+            border-radius: var(--radius-sm);
+            border: 1px solid #fee2e2;
+            font-size: 0.875rem;
+            box-shadow: 0 1px 2px rgba(0,0,0,0.02);
+        }
+
+        /* Modal / Tooltip for details */
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0,0,0,0.4);
+            align-items: center;
+            justify-content: center;
+            z-index: 1000;
+            padding: 1rem;
+        }
+
+        .modal-content {
+            background-color: white;
+            padding: 2rem;
+            border-radius: var(--radius-lg);
+            max-width: 500px;
+            width: 100%;
+            box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1);
+            position: relative;
+            animation: modalEnter 0.2s ease-out;
+        }
+
+        @keyframes modalEnter {
+            from { transform: scale(0.95); opacity: 0; }
+            to { transform: scale(1); opacity: 1; }
+        }
+
+        .close-modal {
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+            background: none;
+            border: none;
+            font-size: 1.5rem;
+            cursor: pointer;
+            color: var(--text-muted);
+        }
+
+        .modal-title {
+            font-size: 1.3rem;
+            color: var(--primary);
+            font-weight: 700;
+            margin-bottom: 1rem;
+            padding-right: 1.5rem;
+        }
+
+        .modal-details-grid {
+            display: grid;
+            grid-template-columns: auto 1fr;
+            gap: 0.75rem 1rem;
+            font-size: 0.95rem;
+        }
+
+        .modal-label {
+            font-weight: 700;
+            color: var(--text-muted);
+        }
+
+        footer {
+            margin-top: 3rem;
+            text-align: center;
+            padding: 2rem 1rem;
+            border-top: 1px solid var(--border);
+            color: var(--text-muted);
+            font-size: 0.875rem;
+        }
+
+        .instructions-card {
+            background: #f1f5f9;
+            border: 1px solid var(--border);
+            border-radius: var(--radius-md);
+            padding: 1.5rem;
+            text-align: left;
+            margin-top: 2rem;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .instructions-card h4 {
+            color: var(--primary);
+            margin-bottom: 0.5rem;
+        }
+
+        .instructions-card ol {
+            padding-left: 1.25rem;
+        }
+
+        .instructions-card li {
+            margin-bottom: 0.4rem;
+        }
+
+        @media (max-width: 768px) {
+            .calendar-grid {
+                grid-template-columns: 1fr;
+            }
+            .weekday-header {
+                display: none;
+            }
+            .calendar-day {
+                min-height: auto;
+                padding: 0.75rem;
+                border-bottom: 1px solid var(--border);
+            }
+            .day-number {
+                align-self: flex-start;
+                background-color: var(--primary-light);
+                width: auto;
+                height: auto;
+                padding: 2px 8px;
+                border-radius: var(--radius-sm);
+            }
+            .filters-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <h1>Cronograma de Avaliações — 2026/1</h1>
+        <p>Calendário de Provas A2 e Avaliações Finais (AF) para os Cursos de Análise e Desenvolvimento de Sistemas (ADS) e Engenharia de Software</p>
+        <span class="badge-info-top">💡 Clique em qualquer avaliação para ver os detalhes completos</span>
+    </header>
+
+    <!-- Dashboard Metrics -->
+    <div class="stats-grid">
+        <div class="stat-card">
+            <h3>Total de Disciplinas</h3>
+            <div class="number" id="metric-total">0</div>
+        </div>
+        <div class="stat-card">
+            <h3>Provas A2</h3>
+            <div class="number" style="color: var(--color-a2)" id="metric-a2">0</div>
+        </div>
+        <div class="stat-card">
+            <h3>Avaliações Finais (AF)</h3>
+            <div class="number" style="color: var(--color-af)" id="metric-af">0</div>
+        </div>
+        <div class="stat-card">
+            <h3>A Confirmar</h3>
+            <div class="number" style="color: #991b1b" id="metric-pending">0</div>
+        </div>
+    </div>
+
+    <!-- Filters Panel -->
+    <div class="controls-card">
+        <div class="filters-grid">
+            <div class="filter-group">
+                <label for="search-input">🔍 Buscar por Disciplina ou Professor</label>
+                <input type="text" id="search-input" placeholder="Ex: Prototipagem ou Bueno...">
+            </div>
+            <div class="filter-group">
+                <label for="curso-filter">🎓 Curso</label>
+                <select id="curso-filter">
+                    <option value="all">Todos os Cursos</option>
+                    <option value="ADS">ADS</option>
+                    <option value="Engenharia de Software">Engenharia de Software</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label for="tipo-filter">📝 Tipo de Avaliação</label>
+                <select id="tipo-filter">
+                    <option value="all">Todas as Avaliações</option>
+                    <option value="A2">A2 apenas</option>
+                    <option value="AF">AF apenas</option>
+                </select>
+            </div>
+        </div>
+    </div>
+
+    <!-- View Toggle Tabs -->
+    <div class="tabs">
+        <button class="tab-btn active" id="btn-view-calendar" onclick="switchView('calendar')">📅 Visão Calendário</button>
+        <button class="tab-btn" id="btn-view-table" onclick="switchView('table')">📋 Visão Tabela</button>
+    </div>
+
+    <!-- Calendar Container Section -->
+    <div id="section-calendar" class="calendar-section">
+        <div class="calendar-nav">
+            <button class="nav-btn" onclick="changeMonth(-1)">◀ Anterior</button>
+            <h2 id="calendar-month-title">Junho 2026</h2>
+            <button class="nav-btn" onclick="changeMonth(1)">Próximo ▶</button>
+        </div>
+        
+        <div class="calendar-grid" id="calendar-grid-body">
+            <!-- Headers and Days are dynamically rendered by JS -->
+        </div>
+    </div>
+
+    <!-- Table Container Section -->
+    <div id="section-table" class="table-section">
+        <table>
+            <thead>
+                <tr>
+                    <th>Disciplina</th>
+                    <th>Curso</th>
+                    <th>Turma</th>
+                    <th>Professor</th>
+                    <th>Data A2</th>
+                    <th>Data AF</th>
+                </tr>
+            </thead>
+            <tbody id="table-rows-body">
+                <!-- Dynamically generated rows -->
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Unscheduled Section -->
+    <div class="unscheduled-card" id="section-unscheduled" style="display: none;">
+        <h3>⚠️ Avaliações com Datas a Confirmar</h3>
+        <ul class="unscheduled-list" id="unscheduled-list-body">
+            <!-- Dynamically generated items -->
+        </ul>
+    </div>
+
+    <!-- Instructions for Github Pages -->
+    <div class="instructions-card">
+        <h4>🛠️ Como Editar, Atualizar ou Publicar no GitHub Pages:</h4>
+        <ol>
+            <li><strong>Como alterar ou adicionar datas:</strong> Abra este arquivo HTML em qualquer editor de texto (como Bloco de Notas ou VS Code) e encontre a seção <code>const cronogramaData = [...]</code> bem no início das tags de script abaixo. Modifique os valores diretamente na lista JSON usando o formato de data brasileiro (<code>DD/MM/YYYY</code>).</li>
+            <li><strong>Como publicar no GitHub Pages:</strong> Crie um repositório público no GitHub, renomeie este arquivo como <code>index.html</code> e faça o upload para o repositório. Vá em <strong>Settings -> Pages</strong>, selecione a branch principal (main) e salve. Em poucos minutos o site estará público para compartilhamento.</li>
+        </ol>
+    </div>
+
+    <footer>
+        <p>Organizado para facilidade de visualização dos estudantes e docentes. 2026 &copy; Calendário Acadêmico</p>
+    </footer>
+</div>
+
+<!-- Modal Dialog for Detailed Info -->
+<div class="modal" id="details-modal" onclick="closeModal(event)">
+    <div class="modal-content" onclick="event.stopPropagation()">
+        <button class="close-modal" onclick="closeModal(null)">&times;</button>
+        <div class="modal-title" id="modal-title">Detalhes da Avaliação</div>
+        <div class="modal-details-grid">
+            <span class="modal-label">Curso:</span> <span id="modal-curso"></span>
+            <span class="modal-label">Turma:</span> <span id="modal-turma"></span>
+            <span class="modal-label">Professor:</span> <span id="modal-professor"></span>
+            <span class="modal-label">Avaliação:</span> <span id="modal-tipo" style="font-weight:bold;"></span>
+            <span class="modal-label">Data:</span> <span id="modal-data" style="font-weight:bold;"></span>
+        </div>
+    </div>
+</div>
+
+<script>
+    // DATASET - O professor pode editar e modificar essa lista diretamente de forma simples:
+    const cronogramaData = [
+    {
+        "disciplina": "Desenvolvimento de Software",
+        "curso": "Engenharia de Software",
+        "turma": "2N1, 3N1",
+        "professor": "Paulo Eduardo Bueno",
+        "a2": "17/06/2026",
+        "af": "01/07/2026"
+    },
+    {
+        "disciplina": "Prototipagem de Sistemas Computacionais",
+        "curso": "ADS",
+        "turma": "1N1",
+        "professor": "Paulo Eduardo Bueno",
+        "a2": "18/06/2026",
+        "af": "02/07/2026"
+    },
+    {
+        "disciplina": "Modelos de Processos de Software",
+        "curso": "Engenharia de Software",
+        "turma": "4N1, 5N1",
+        "professor": "A definir",
+        "a2": "19/06/2026",
+        "af": "26/06/2026"
+    },
+    {
+        "disciplina": "Desenvolvimento de Software",
+        "curso": "ADS",
+        "turma": "2N1, 3N1",
+        "professor": "Maria Eduarda",
+        "a2": "16/06/2026",
+        "af": "29/06/2026"
+    },
+    {
+        "disciplina": "Desenvolvimento de Software",
+        "curso": "Engenharia de Software",
+        "turma": "3N2",
+        "professor": "Juliana Costa Silva",
+        "a2": "15/06/2026",
+        "af": "29/06/2026"
+    },
+    {
+        "disciplina": "Prototipagem de Sistemas Computacionais",
+        "curso": "Engenharia de Software",
+        "turma": "1N1",
+        "professor": "Paulo Eduardo Bueno",
+        "a2": "15/06/2026",
+        "af": "29/06/2026"
+    },
+    {
+        "disciplina": "Desenvolvimento Web Avançado",
+        "curso": "Engenharia de Software",
+        "turma": "4N1, 5N1",
+        "professor": "Juliana Costa Silva",
+        "a2": "16/06/2026",
+        "af": "30/06/2026"
+    },
+    {
+        "disciplina": "Engenharia de Prompt e Aplicações em IA",
+        "curso": "Engenharia de Software",
+        "turma": "1N1",
+        "professor": "Helton de Azevedo",
+        "a2": "16/06/2026",
+        "af": "30/06/2026"
+    },
+    {
+        "disciplina": "Interface e Jornada do Usuário",
+        "curso": "ADS",
+        "turma": "1N1",
+        "professor": "Thiago Arahn Detoni",
+        "a2": "17/06/2026",
+        "af": "01/07/2026"
+    },
+    {
+        "disciplina": "Interface e Jornada do Usuário",
+        "curso": "Engenharia de Software",
+        "turma": "1N1",
+        "professor": "Thiago Arahn Detoni",
+        "a2": "17/06/2026",
+        "af": "01/07/2026"
+    },
+    {
+        "disciplina": "Gestão de Projetos de Software",
+        "curso": "Engenharia de Software",
+        "turma": "4N1, 5N1",
+        "professor": "Thiago Arahn Detoni",
+        "a2": "18/06/2026",
+        "af": "02/07/2026"
+    },
+    {
+        "disciplina": "Desenvolvimento de Sistemas",
+        "curso": "ADS",
+        "turma": "2N1, 3N1",
+        "professor": "Juliana Costa Silva",
+        "a2": "26/06/2026",
+        "af": "03/07/2026"
+    },
+    {
+        "disciplina": "Design de Software",
+        "curso": "Engenharia de Software",
+        "turma": "2N1, 3N1",
+        "professor": "Everson",
+        "a2": "a confirmar",
+        "af": "a confirmar"
+    },
+    {
+        "disciplina": "Design de Software",
+        "curso": "Engenharia de Software",
+        "turma": "3N2",
+        "professor": "Everson",
+        "a2": "a confirmar",
+        "af": "a confirmar"
+    },
+    {
+        "disciplina": "Programação de Computadores",
+        "curso": "Engenharia de Software",
+        "turma": "1N1",
+        "professor": "Joao Victor Ramos",
+        "a2": "23/06/2026",
+        "af": "30/06/2026"
+    },
+    {
+        "disciplina": "Programação de Computadores",
+        "curso": "ADS",
+        "turma": "1N1",
+        "professor": "Joao Victor Ramos",
+        "a2": "23/06/2026",
+        "af": "30/06/2026"
+    },
+    {
+        "disciplina": "Tópicos Especiais de Sistemas",
+        "curso": "ADS",
+        "turma": "2N1, 3N1",
+        "professor": "Alex Junior Nunes da Silva",
+        "a2": "24/04/2026",
+        "af": "01/07/2026"
+    },
+    {
+        "disciplina": "Viabilidade de Projetos",
+        "curso": "Engenharia de Software",
+        "turma": "4N1, 5N1",
+        "professor": "Joao Victor Ramos",
+        "a2": "17/06/2026",
+        "af": "01/07/2026"
+    },
+    {
+        "disciplina": "Engenharia de Prompt e Aplicações em IA",
+        "curso": "ADS",
+        "turma": "1N1",
+        "professor": "Alex Junior Nunes da Silva",
+        "a2": "19/06/2026",
+        "af": "03/07/2026"
+    }
+];
+
+    // State Variables
+    let currentYear = 2026;
+    let currentMonth = 5; // Junho (0-indexed: 0=Jan, 5=Jun, 6=Jul)
+    let activeView = 'calendar';
+
+    const weekdays = ['Domingo', 'Segunda', 'Terça', 'Quarta', 'Quinta', 'Sexta', 'Sábado'];
+    const monthNames = ["Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"];
+
+    // Initialize Page
+    document.addEventListener('DOMContentLoaded', () => {
+        // Set default month to June 2026 as it has the majority of the events
+        currentYear = 2026;
+        currentMonth = 5; 
+        
+        setupEventListeners();
+        renderAll();
+    });
+
+    function setupEventListeners() {
+        document.getElementById('search-input').addEventListener('input', renderAll);
+        document.getElementById('curso-filter').addEventListener('change', renderAll);
+        document.getElementById('tipo-filter').addEventListener('change', renderAll);
+    }
+
+    function switchView(view) {
+        activeView = view;
+        document.getElementById('btn-view-calendar').classList.toggle('active', view === 'calendar');
+        document.getElementById('btn-view-table').classList.toggle('active', view === 'table');
+        
+        document.getElementById('section-calendar').style.display = view === 'calendar' ? 'block' : 'none';
+        document.getElementById('section-table').style.display = view === 'table' ? 'block' : 'none';
+        renderAll();
+    }
+
+    function changeMonth(dir) {
+        currentMonth += dir;
+        if (currentMonth > 11) {
+            currentMonth = 0;
+            currentYear++;
+        } else if (currentMonth < 0) {
+            currentMonth = 11;
+            currentYear--;
+        }
+        renderCalendar();
+    }
+
+    function parseBrazilianDate(dateStr) {
+        if (!dateStr || dateStr.toLowerCase().includes('confirmar')) return null;
+        const parts = dateStr.split('/');
+        if (parts.length !== 3) return null;
+        return new Date(parseInt(parts[2]), parseInt(parts[1]) - 1, parseInt(parts[0]));
+    }
+
+    function getFilteredData() {
+        const searchText = document.getElementById('search-input').value.toLowerCase();
+        const cursoFilter = document.getElementById('curso-filter').value;
+        const tipoFilter = document.getElementById('tipo-filter').value;
+
+        return cronogramaData.filter(item => {
+            const matchesSearch = item.disciplina.toLowerCase().includes(searchText) || 
+                                  item.professor.toLowerCase().includes(searchText);
+            const matchesCurso = cursoFilter === 'all' || item.curso === cursoFilter;
+            return matchesSearch && matchesCurso;
+        });
+    }
+
+    function calculateMetrics() {
+        const filtered = getFilteredData();
+        const tipoFilter = document.getElementById('tipo-filter').value;
+        
+        let uniqueDisciplines = new Set(filtered.map(i => i.disciplina + '|' + i.curso + '|' + i.turma)).size;
+        let countA2 = 0;
+        let countAF = 0;
+        let countPending = 0;
+
+        filtered.forEach(item => {
+            const hasA2 = item.a2 && !item.a2.toLowerCase().includes('confirmar');
+            const hasAF = item.af && !item.af.toLowerCase().includes('confirmar');
+            const isPending = !hasA2 && !hasAF;
+
+            if (isPending) {
+                countPending++;
+            } else {
+                if (hasA2 && (tipoFilter === 'all' || tipoFilter === 'A2')) countA2++;
+                if (hasAF && (tipoFilter === 'all' || tipoFilter === 'AF')) countAF++;
+            }
+        });
+
+        document.getElementById('metric-total').textContent = uniqueDisciplines;
+        document.getElementById('metric-a2').textContent = countA2;
+        document.getElementById('metric-af').textContent = countAF;
+        document.getElementById('metric-pending').textContent = countPending;
+    }
+
+    function renderAll() {
+        calculateMetrics();
+        if (activeView === 'calendar') {
+            renderCalendar();
+        } else {
+            renderTable();
+        }
+        renderUnscheduled();
+    }
+
+    function renderCalendar() {
+        const gridBody = document.getElementById('calendar-grid-body');
+        gridBody.innerHTML = '';
+        
+        document.getElementById('calendar-month-title').textContent = `${monthNames[currentMonth]} ${currentYear}`;
+        
+        // Add weekday column headers
+        weekdays.forEach(day => {
+            const dayHeader = document.createElement('div');
+            dayHeader.className = 'weekday-header';
+            dayHeader.textContent = day;
+            gridBody.appendChild(dayHeader);
+        });
+
+        const firstDayIndex = new Date(currentYear, currentMonth, 1).getDay();
+        const daysInCurrentMonth = new Date(currentYear, currentMonth + 1, 0).getDate();
+        const daysInPrevMonth = new Date(currentYear, currentMonth, 0).getDate();
+
+        const filteredData = getFilteredData();
+        const tipoFilter = document.getElementById('tipo-filter').value;
+
+        // Days from previous month to fill the first row grid
+        for (let i = firstDayIndex - 1; i >= 0; i--) {
+            const prevDayNum = daysInPrevMonth - i;
+            const dayCell = document.createElement('div');
+            dayCell.className = 'calendar-day other-month';
+            dayCell.innerHTML = `<span class="day-number">${prevDayNum}</span>`;
+            gridBody.appendChild(dayCell);
+        }
+
+        // Days of current month
+        for (let day = 1; day <= daysInCurrentMonth; day++) {
+            const dayCell = document.createElement('div');
+            dayCell.className = 'calendar-day';
+            
+            // Check if it's "today"
+            const today = new Date();
+            if (today.getDate() === day && today.getMonth() === currentMonth && today.getFullYear() === currentYear) {
+                dayCell.classList.add('today');
+            }
+
+            dayCell.innerHTML = `<span class="day-number">${day}</span>`;
+
+            // Build date strings for matching
+            const currentDayStr = `${day.toString().padStart(2, '0')}/${(currentMonth + 1).toString().padStart(2, '0')}/${currentYear}`;
+
+            // Find events for this specific day
+            filteredData.forEach(item => {
+                // Check A2 event
+                if (item.a2 === currentDayStr && (tipoFilter === 'all' || tipoFilter === 'A2')) {
+                    const pill = document.createElement('div');
+                    pill.className = 'event-pill a2';
+                    pill.textContent = `A2: ${item.disciplina}`;
+                    pill.title = `Clique para ver detalhes: ${item.disciplina}`;
+                    pill.onclick = () => showEventDetails(item, 'A2', currentDayStr);
+                    dayCell.appendChild(pill);
+                }
+                // Check AF event
+                if (item.af === currentDayStr && (tipoFilter === 'all' || tipoFilter === 'AF')) {
+                    const pill = document.createElement('div');
+                    pill.className = 'event-pill af';
+                    pill.textContent = `AF: ${item.disciplina}`;
+                    pill.title = `Clique para ver detalhes: ${item.disciplina}`;
+                    pill.onclick = () => showEventDetails(item, 'AF', currentDayStr);
+                    dayCell.appendChild(pill);
+                }
+            });
+
+            gridBody.appendChild(dayCell);
+        }
+
+        // Remaining grid slots from next month
+        const totalCellsSoFar = firstDayIndex + daysInCurrentMonth;
+        const remainingSlots = (7 - (totalCellsSoFar % 7)) % 7;
+        for (let i = 1; i <= remainingSlots; i++) {
+            const dayCell = document.createElement('div');
+            dayCell.className = 'calendar-day other-month';
+            dayCell.innerHTML = `<span class="day-number">${i}</span>`;
+            gridBody.appendChild(dayCell);
+        }
+    }
+
+    function renderTable() {
+        const tableBody = document.getElementById('table-rows-body');
+        tableBody.innerHTML = '';
+        const filtered = getFilteredData();
+        const tipoFilter = document.getElementById('tipo-filter').value;
+
+        if (filtered.length === 0) {
+            tableBody.innerHTML = `<tr><td colspan="6" style="text-align:center; color:var(--text-muted);">Nenhum registro encontrado com os filtros selecionados.</td></tr>`;
+            return;
+        }
+
+        filtered.forEach(item => {
+            const tr = document.createElement('tr');
+            
+            const cursoClass = item.curso === 'ADS' ? 'badge ads' : 'badge es';
+            const showA2 = tipoFilter === 'all' || tipoFilter === 'A2';
+            const showAF = tipoFilter === 'all' || tipoFilter === 'AF';
+            
+            const a2Display = item.a2.toLowerCase().includes('confirmar') ? 
+                `<span style="color:var(--text-muted); font-style:italic;">${item.a2}</span>` : 
+                `<span class="table-date-badge a2">${item.a2}</span>`;
+                
+            const afDisplay = item.af.toLowerCase().includes('confirmar') ? 
+                `<span style="color:var(--text-muted); font-style:italic;">${item.af}</span>` : 
+                `<span class="table-date-badge af">${item.af}</span>`;
+
+            tr.innerHTML = `
+                <td style="font-weight:600; color:var(--primary);">${item.disciplina}</td>
+                <td><span class="${cursoClass}">${item.curso}</span></td>
+                <td><code>${item.turma}</code></td>
+                <td>${item.professor}</td>
+                <td>${showA2 ? a2Display : '-'}</td>
+                <td>${showAF ? afDisplay : '-'}</td>
+            `;
+            tableBody.appendChild(tr);
+        });
+    }
+
+    function renderUnscheduled() {
+        const listBody = document.getElementById('unscheduled-list-body');
+        const section = document.getElementById('section-unscheduled');
+        listBody.innerHTML = '';
+
+        // Filter for items that have 'confirmar' in either a2 or af
+        const unscheduledItems = cronogramaData.filter(item => 
+            item.a2.toLowerCase().includes('confirmar') || item.af.toLowerCase().includes('confirmar')
+        );
+
+        if (unscheduledItems.length === 0) {
+            section.style.display = 'none';
+            return;
+        }
+
+        section.style.display = 'block';
+        unscheduledItems.forEach(item => {
+            const li = document.createElement('li');
+            li.className = 'unscheduled-item';
+            li.innerHTML = `
+                <strong>${item.disciplina}</strong><br>
+                <span style="font-size:0.8rem; color:var(--text-muted);">Curso: ${item.curso} | Turma: ${item.turma}</span><br>
+                <span style="font-size:0.8rem; color:var(--text-muted);">Professor: ${item.professor}</span>
+            `;
+            listBody.appendChild(li);
+        });
+    }
+
+    function showEventDetails(item, tipo, dataStr) {
+        document.getElementById('modal-title').textContent = item.disciplina;
+        document.getElementById('modal-curso').textContent = item.curso;
+        document.getElementById('modal-turma').textContent = item.turma;
+        document.getElementById('modal-professor').textContent = item.professor;
+        
+        const tipoBadge = document.getElementById('modal-tipo');
+        tipoBadge.textContent = tipo === 'A2' ? 'Avaliação A2' : 'Avaliação Final (AF)';
+        tipoBadge.style.color = tipo === 'A2' ? 'var(--color-a2)' : 'var(--color-af)';
+        
+        document.getElementById('modal-data').textContent = dataStr;
+        
+        document.getElementById('details-modal').style.display = 'flex';
+    }
+
+    function closeModal(event) {
+        document.getElementById('details-modal').style.display = 'none';
+    }
+</script>
+</body>
+</html>
+index.html
+Exibindo index.html.
